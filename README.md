@@ -1,7 +1,7 @@
-# PeetCode - Full Stack Coding Platform (No Database)
+Full Stack Coding Platform (No Database)
 
 ## 🚀 Overview
-PeetCode is a full-stack coding platform where users can browse coding problems, submit solutions, and get instant feedback.
+leetcode-clone is a full-stack coding platform where users can browse coding problems, submit solutions, and get instant feedback.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (Vite), React Router, CSS  
