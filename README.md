@@ -15,8 +15,3 @@ leetcode-clone is a full-stack coding platform where users can browse coding pro
 ✅ **Authentication system** (signup & login stored in memory)  
 ✅ Admin can **add new coding problems** (protected route)  
 
-## 🔗 Installation & Running the Project
-1. **Clone the repo**  
-   ```sh
-   git clone https://github.com/your-username/peetcode.git
-   cd peetcode
